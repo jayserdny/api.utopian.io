@@ -68,7 +68,7 @@
     "express-winston": "^2.4.0",
     "helmet": "^3.9.0",
     "http-status": "^1.0.1",
-    "jimp": "^0.2.28",
+    "jimp": "^0.3.7",
     "joi": "^13.0.2",
     "method-override": "^2.3.5",
     "mongoose": "^4.13.4",
@@ -80,7 +80,7 @@
     "sc2-sdk": "^0.0.5",
     "secure-random": "^1.1.1",
     "speakingurl": "^14.0.1",
-    "steem": "^0.6.4",
+    "steem": "^0.6.7",
     "superagent": "^3.8.1",
     "unique-slug": "^2.0.0",
     "winston": "^2.4.1"
